@@ -13,7 +13,7 @@ jobs:
       - name: Clone Base Repository
         uses: actions/checkout@v3
         with:
-          repository: ${{ qxpqqy2017/TVSpider}}
+          repository: ${{ jadehh/TVSpider}}
           fetch-depth: 0
           token: ${{ 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}}
 
